@@ -1,5 +1,5 @@
 ---
-name: User Story temple
+name: User Story template
 about: Guide and prompt for info required to write good stories. Recommended to create
   one for each repository.
 title: ''
